@@ -4,7 +4,7 @@ Grupo 28
 
 INTEGRANTES DO GRUPO 28
 Guilherme Luiz Argentino Silva
-Guilherme.argentino@gmail.com
+guilherme.argentino@gmail.com
 
 Gustavo Perri Galegale
 gustavo.galegale@fiap.com.br
