@@ -28,6 +28,7 @@ gustavo.galegale@fiap.com.br
 - https://github.com/rstudio/reticulate/issues/1282
 - https://stackoverflow.com/questions/72540359/glibcxx-3-4-30-not-found-for-librosa-in-conda-virtual-environment-after-tryin
 - https://jupyter.org/install
+- https://huggingface.co/docs/transformers/model_doc/bert
 - https://www.debugpoint.com/linux-amdgpu-controller/
 - https://github.com/ilya-zlobintsev/LACT/releases
 - https://gitlab.com/corectrl/corectrl/
