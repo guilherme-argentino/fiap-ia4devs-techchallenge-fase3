@@ -19,6 +19,10 @@ gustavo.galegale@fiap.com.br
 3. Execute as instruções na ordem do arquivo
 4. (Opcional) Altere outras variáveis para verificar diferenças de performance e precisão do resultado
 
+## PUBLICAÇÃO
+
+https://huggingface.co/rrantz/FIAP-1IADT-Grupo28
+
 ## REFERENCIAS
 
 - https://pypi.org/project/gdown/
