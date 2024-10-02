@@ -35,9 +35,9 @@ gustavo.galegale@fiap.com.br
  
 ## PUBLICAÇÕES
 
-https://huggingface.co/rrantz/FIAP-1IADT-Grupo28
-https://huggingface.co/datasets/rrantz/LF-Amazon-1.3M
-https://huggingface.co/rrantz/FIAP-1IADT-Grupo28-lora-model
+- https://huggingface.co/rrantz/FIAP-1IADT-Grupo28
+- https://huggingface.co/datasets/rrantz/LF-Amazon-1.3M
+- https://huggingface.co/rrantz/FIAP-1IADT-Grupo28-lora-model
 
 ## REFERENCIAS
 
